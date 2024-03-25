@@ -1,3 +1,9 @@
+/*Abstraction is the process of hiding the implementation details of a code, it shows only the necessary information.
+We can implement abstraction in two ways.
+       1.using interfaces
+       2.using adstract classes*/
+
+
 package myjava.src;
 
 abstract class Animal {
